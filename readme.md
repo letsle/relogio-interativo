@@ -2,6 +2,6 @@
 
 ## Projeto de um relógio online digital interativo feito com HTML, CSS e JavaScript. 👩🏽‍💻
 
-### [Clique aqui para acessar a página 👇🏽]() 
+### [Clique aqui para acessar a página 👇🏽](https://letsle.github.io/relogio-interativo/) 
 
-![preview](./img%20relogio.png)
+![preview](./src/img%20relogio.png)

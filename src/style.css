@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:  #10e6d4;
+    font-family: monospace;
+    font-size: 60px;
+    text-align: center;
+    padding: 6px;
+    box-shadow: 15px 15px 20px rgba(9, 235, 186, 0.363);
+    border-radius: 10px;
+}
+
+.clock{
+	position: absolute;
+	left:50%;
+	letter-spacing: 7px;
+	top:50%;
+	transform: translateX(-50%) translateY(-50%);
+    box-shadow: 15px 15px 20px rgba(9, 235, 186, 0.363);
+    border-radius: 10px;
+}
